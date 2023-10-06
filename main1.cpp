@@ -1,13 +1,13 @@
 #include <iostream>
 
-
+using namespace std;
 int main()
 {
-    std::cout<<"Karina Kystsiv" << std::endl;
-    std::cout<<"Olena Novosad"  << std::endl;
-    std::cout<<"Oleg Bandrivskiy" << std::endl;
-    std::cout<<"Artem Stepanyuk" << std::endl;
-    std::cout<<"Artem Laskavyi" << std::endl;
+   cout<<"Karina Kystsiv" << endl;
+   cout<<"Olena Novosad"  << endl;
+   cout<<"Oleg Bandrivskiy" << endl;
+   cout<<"Artem Stepanyuk" << endl;
+   cout<<"Artem Laskavyi" << endl;
     
     return 0;
  
